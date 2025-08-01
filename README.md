@@ -1,4 +1,4 @@
-# *CompleteMe*: Reference-based Human Image Completion
+# 🌺ICCV 2025🌺 *CompleteMe*: Reference-based Human Image Completion
 
 [Yu-Ju Tsai](https://liagm.github.io/), 
 [Brian Price](https://research.adobe.com/person/brian-price/), 
