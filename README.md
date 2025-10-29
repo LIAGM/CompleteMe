@@ -22,6 +22,7 @@ University of California, Merced - Adobe Research
 > Given occluded human images, *CompleteMe* can preserve identical and fine-detail information from the reference image and generate a consistent result.
 
 ## News  ✨ ✨ 
+- **[2025-10-25]** Our code is under internal review.
 - **[2025-06-25]** Our paper is accepted by **ICCV 2025**.
 
 ## Citation
